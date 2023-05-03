@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883938858779",
+    "project_id": "testlogin-36cbc",
+    "storage_bucket": "testlogin-36cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883938858779:android:75c8ddfc7b0f4d75ade5be",
+        "android_client_info": {
+          "package_name": "com.example.kakaologintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883938858779-c89105aatvkdbsh552sd530iio5rgc25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BF1BdlUROkJZ2aebGaJvpJUglhLvQpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883938858779-c89105aatvkdbsh552sd530iio5rgc25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
